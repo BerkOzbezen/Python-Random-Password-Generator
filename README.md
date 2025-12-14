@@ -13,13 +13,13 @@ This is a simple yet robust command-line application built in Python that genera
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL Here]
-    cd password-generator-project-name
+    git clone [https://github.com/BerkOzbezen/Python-Random-Password-Generator]
+    cd Python-Random-Password-Generator
     ```
 
 2.  **Execute the script:**
     ```bash
-    python your_script_name.py
+    python password_generator.py
     ```
 
 ## 🛠️ Usage
